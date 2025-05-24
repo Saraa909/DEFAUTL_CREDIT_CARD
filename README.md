@@ -61,4 +61,3 @@ Los resultados muestran que la optimización de hiperparámetros mejora el rendi
 - Código de hiperparámetros, EDA, y gráficos
 - Base de datos utilizada
 - Archivo README
-# DEFAUTL_CREDIT_CARD
